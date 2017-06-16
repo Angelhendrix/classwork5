@@ -1,0 +1,29 @@
+.box{
+	height: 200px;
+}
+
+.red{
+	background-color: white;
+}
+
+.blue{
+	background-color: white;
+}
+.black{
+	background-color: ;
+}
+
+nav.navbar-default{
+ background-color:teal;
+  background-image: none;
+  background-repeat: no-repeat;
+ }
+a{
+	color: black;
+}
+ .btn-default{
+ 	background-color: gray;
+ 	background-image: none;
+  	background-repeat: no-repeat;
+
+ }
